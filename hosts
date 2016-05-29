@@ -1,0 +1,525 @@
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+0.0.0.0	www3.oovoo.com
+0.0.0.0	ad.adserverplus.com
+
+# Google
+0.0.0.0	pagead2.googlesyndication.com
+0.0.0.0	pagead.googlesyndication.com
+0.0.0.0	adservices.google.com
+#
+# Questioned
+0.0.0.0	safebrowsing-cache.google.com
+0.0.0.0	safebrowsing.clients.google.com
+0.0.0.0	cgi.gstatic.com
+0.0.0.0	kvada.globescale.com
+#0.0.0.0	ssl.gstatic.com		#GoogleDocs doesn't function with this site blocked.
+#0.0.0.0	sb-ssl.google.com
+#0.0.0.0	ajax.googleapis.com	# Remove for Brussels Airlines
+
+# YouTube
+0.0.0.0		yt3.ggpht.com
+
+# Skype
+0.0.0.0 rad.msn.com
+0.0.0.0 preview.msn.com
+
+# 2015-11-03
+0.0.0.0 apps.skype.com
+0.0.0.0 api.skype.com
+0.0.0.0 a.config.skype.com
+0.0.0.0 b.config.skype.com
+0.0.0.0 preapps.skype.net
+0.0.0.0 qaapi.skype.net
+0.0.0.0 devapps.skype.net
+0.0.0.0 qaapps.skype.net
+0.0.0.0 qawww.skypeassets.net
+0.0.0.0 devads.skypeassets.net
+0.0.0.0 preads.skypeassets.net
+0.0.0.0 qaads.skypeassets.net
+0.0.0.0 secure.skypeassets.com
+0.0.0.0 static.skypeassets.com
+0.0.0.0 skypeecs-int-cd-0.cloudapp.net
+0.0.0.0 skypeecs-int-cd-1.cloudapp.net
+
+# www.googleadservices.com
+#0.0.0.0	www.googleadservices.com
+#0.0.0.0	googleadservices.com
+#0.0.0.0	partner.googleadservices.com
+#0.0.0.0	feedads.googleadservices.com
+#0.0.0.0	imageads.googleadservices.com
+
+#0.0.0.0	google-analytics.com
+#0.0.0.0	www.google-analytics.com
+#0.0.0.0	ssl.google-analytics.com
+#0.0.0.0	search.googleanalytics.com
+#0.0.0.0	www.search.googleanalytics.com
+#0.0.0.0	results.google-analytics.com
+#0.0.0.0	www.results.google-analytics.com
+
+# Keyword ads
+# [Vibrant Media]
+0.0.0.0 intellitxt.com
+0.0.0.0 images.intellitxt.com
+0.0.0.0 vibrantmedia.com
+0.0.0.0 itxt.vibrantmedia.com
+0.0.0.0 www.vibrantmedia.com
+0.0.0.0 incontext.pl
+0.0.0.0 www.infolinks.com
+0.0.0.0 router.infolinks.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 infolinks.com
+0.0.0.0 tblsearch.com
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
+
+0.0.0.0	www.pagead2.google.com
+0.0.0.0	pagead2.google.com
+0.0.0.0	adservices.google.com
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
+
+# Windows
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 microsoft.com.nsatc.net
+0.0.0.0 com.nsatc.net
+0.0.0.0 nsatc.net
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 ca.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 feedback.windows.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 rad.msn.com
+0.0.0.0 preview.msn.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 mnet-ad.net
+0.0.0.0 us-ads.openx.net
+0.0.0.0 openx.net
+# 0.0.0.0 
+# 0.0.0.0 
+
+# MSN
+0.0.0.0	rad.msn.com
+0.0.0.0	live.rads.msn.com
+0.0.0.0	ads1.msn.com
+0.0.0.0	static.2mdn.net
+0.0.0.0	g.msn.com
+0.0.0.0	a.ads2.msads.net
+0.0.0.0	b.ads2.msads.net
+0.0.0.0	ac3.msn.com
+0.0.0.0	ec.atdmt.com
+0.0.0.0	adsyndication.msn.com
+
+# doubleclick.net
+0.0.0.0	doubleclick.net
+0.0.0.0	ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0	ad-emea.doubleclick.net
+0.0.0.0	ad.be.doubleclick.net
+0.0.0.0	ad-g.doubleclick.net
+0.0.0.0	googleads.g.doubleclick.net
+0.0.0.0	partnerad.l.doubleclick.net
+0.0.0.0	partnerad.l.doubleclick.net
+0.0.0.0	stats.g.doubleclick.net
+0.0.0.0	pubads.g.doubleclick.net
+
+# ScoredSearch.com
+0.0.0.0	 scorecardresearch.com
+0.0.0.0	 b.scorecardresearch.com
+0.0.0.0	 beacon.scorecardresearch.com
+0.0.0.0	 sb.scorecardresearch.com
+
+# Quantserve.com
+0.0.0.0 quantserve.com
+0.0.0.0 edge.quantserve.com
+0.0.0.0 flash.quantserve.com
+0.0.0.0 pixel.quantserve.com #[WebBug]
+0.0.0.0 secure.quantserve.com
+
+# adxns.com
+0.0.0.0 cdn.adxns.com
+0.0.0.0 ib.adxns.com
+
+# cedexis.com
+0.0.0.0	cedexis.com
+0.0.0.0	limelight.cedexis.com
+0.0.0.0	radar.cedexis.com
+0.0.0.0 probes.cedexis.com
+0.0.0.0 radartumblr.cedexis.com
+0.0.0.0 bench.cedexis-test.com
+0.0.0.0 tumblrreports.cedexis.com
+0.0.0.0 netdna.cedexis.com
+0.0.0.0 cloudfront.cedexis.com
+
+# media.net
+0.0.0.0 opt.media.net
+0.0.0.0 qsearch.media.net
+0.0.0.0 contextual.media.net
+
+# adrta.com
+0.0.0.0 adrta.com
+0.0.0.0 cdn.adrta.com
+0.0.0.0 q.adrta.com
+
+# General
+0.0.0.0	a.ucoz.net
+0.0.0.0	a.ucoz.ru
+0.0.0.0	www.appliedsemantics.com
+0.0.0.0	service.urchin.com #[Urchin Tracking Module]
+0.0.0.0	service.collarity.com
+0.0.0.0	beacon.securestudies.com
+0.0.0.0	cdn.taboolasyndication.com
+0.0.0.0	trc.taboolasyndication.com
+0.0.0.0	widgets.outbrain.com
+0.0.0.0	odb.outbrain.com
+0.0.0.0	traffic.outbrain.com
+
+0.0.0.0	ghmil.hit.gemius.pl
+0.0.0.0	gail.hit.gemius.pl
+0.0.0.0	ls.hit.gemius.pl
+0.0.0.0	hit.gemius.pl
+0.0.0.0	gemius.pl
+
+0.0.0.0	imagesrv.adition.com
+0.0.0.0	ping.chartbeat.net
+0.0.0.0	b.scorecardresearch.com
+0.0.0.0	ad.yieldmanager.com
+0.0.0.0	ad.clickosmedia.com
+0.0.0.0	ads.clickosmedia.com
+
+0.0.0.0	dt00.net
+0.0.0.0	imgg.dt00.net
+0.0.0.0	ab.goodsblock.dt00.net
+0.0.0.0	jsc.dt00.net
+
+0.0.0.0	ad.admitad.com
+0.0.0.0	adserver.adtech.de
+0.0.0.0	geoiplookup.wikimedia.org
+0.0.0.0	b.scorecardresearch.com
+0.0.0.0	stats.kaltura.com
+0.0.0.0	cdnx.tribalfusion.com
+0.0.0.0	a.tribalfusion.com
+0.0.0.0	adimages.go.com
+0.0.0.0	adm.fwmrm.net
+0.0.0.0	api.conduit.com
+0.0.0.0	mediaunder.net
+0.0.0.0	openunder.net
+0.0.0.0	www.da-ads.com
+0.0.0.0 media.giphy.com
+0.0.0.0 giphy.com
+0.0.0.0 cdn.teads.tv
+0.0.0.0 teads.tv
+0.0.0.0 cdn.krxd.net
+0.0.0.0 beacon.krxd.net
+0.0.0.0 bam.nr-data.net
+0.0.0.0 nr-data.net
+
+0.0.0.0 s.tribalfusion.com
+0.0.0.0 tribalfusion.com
+0.0.0.0 exponential.com
+0.0.0.0 ad.amgdgt.com
+0.0.0.0 amgdgt.com
+0.0.0.0 mpp.specificclick.net
+0.0.0.0 specificclick.net
+
+0.0.0.0 onclickads.net
+0.0.0.0 mxttrf.com
+0.0.0.0 www.mxttrf.com
+0.0.0.0 mxtcss.com
+0.0.0.0 mtrcss.com
+0.0.0.0 mxpopad.com
+
+0.0.0.0 criteo.com
+0.0.0.0 rtax.criteo.com
+0.0.0.0 rtax.eu.criteo.com
+0.0.0.0 logc400.xiti.com
+0.0.0.0 xiti.com
+
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 ds.serving-sys.com
+
+0.0.0.0 ng.virgul.com
+0.0.0.0 ng2.virgul.com
+0.0.0.0 virgul.com
+0.0.0.0 static.virgul.com
+
+0.0.0.0 cdn.dimml.io
+#0.0.0.0 
+#0.0.0.0 
+
+0.0.0.0 optimizely.com
+0.0.0.0 log.optimizely.com
+#0.0.0.0 
+#0.0.0.0 
+
+# Israeli sites
+0.0.0.0	total-media.net
+0.0.0.0	a.total-media.net
+0.0.0.0	i.total-media.net
+0.0.0.0	cdn.total-media.net
+0.0.0.0	www.merlin.co.il
+0.0.0.0	tracking.merlin.co.il
+0.0.0.0	live.sekindo.com
+0.0.0.0	banners.hosting-il.com
+0.0.0.0	xban.walla.co.il
+0.0.0.0	banner.icon-interactive.co.il
+0.0.0.0	image.net-buy.co.il
+0.0.0.0	www.relevanti.com
+0.0.0.0	dclk.themarker.com
+0.0.0.0	checkm8.com
+0.0.0.0	www.checkm8.com
+0.0.0.0	nrg.checkm8.com
+0.0.0.0	nrgdigital.checkm8.com
+0.0.0.0 nana10.checkm8.com
+0.0.0.0 banners.bizportal.co.il
+0.0.0.0 amazing-offers.co.il
+0.0.0.0 www.amazing-offers.co.il
+0.0.0.0 totalmedia.ynet.co.il
+0.0.0.0 track.clickon.co.il
+0.0.0.0 clickon.co.il
+0.0.0.0 ads.bhol.co.il
+0.0.0.0 bholcdn.cdnwiz.com
+0.0.0.0 bholads.cdnwiz.net
+0.0.0.0 linicom.co.il
+0.0.0.0 gin.co.il
+0.0.0.0 campaigns.gin.co.il
+0.0.0.0 secure.web-wise.co.il
+0.0.0.0 web-wise.co.il
+
+# dynamicyield.com
+0.0.0.0 dynamicyield.com
+0.0.0.0 px.dynamicyield.com
+0.0.0.0 static.dynamicyield.com
+0.0.0.0 st.dynamicyield.com
+
+# used by nrg.co.il
+0.0.0.0 cdn.firstimpression.io
+0.0.0.0 cdn.taboola.com
+0.0.0.0 taboola.com
+#0.0.0.0 __________________.___
+
+# used by ynet.co.il
+0.0.0.0 static.chartbeat.com
+0.0.0.0 podium.augmentad.net
+0.0.0.0 cdn.connatix.com
+0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 wcdn.zoomanalytics.co
+0.0.0.0 apicdn.zoomanalytics.co
+0.0.0.0 zoomanalytics.co
+0.0.0.0 static.hotjar.com
+0.0.0.0 cdn.clicktale.net
+0.0.0.0 hilight.wee.co.il
+0.0.0.0 wee.co.il
+#0.0.0.0 __________________.___
+
+# flx.com
+0.0.0.0 c.flx1.com
+0.0.0.0 go.flx1.com
+
+# exposebox.com
+0.0.0.0 server.exposebox.com
+0.0.0.0 sf.exposebox.com
+0.0.0.0 exposebox.com
+
+# cloudfront.net
+0.0.0.0 cloudfront.net
+#0.0.0.0 d1clufhfw8sswh.cloudfront.net
+#0.0.0.0 exposebox.com
+
+# Russian
+0.0.0.0	popunder.ru
+0.0.0.0	bs.yandex.ru
+0.0.0.0	an.yandex.ru
+0.0.0.0	mc.yandex.ru
+0.0.0.0	yabs.yandex.ru
+0.0.0.0	advanceadv.net
+0.0.0.0	www.r-money.ru
+0.0.0.0	advsense.info
+0.0.0.0	popunder.ru
+0.0.0.0	slidebanner.ru
+
+0.0.0.0	corp.mail.ru
+0.0.0.0	rs.mail.ru
+#0.0.0.0	swa.mail.ru
+0.0.0.0	ad.mail.ru
+
+0.0.0.0	scnt.rambler.ru
+0.0.0.0	ad.rambler.ru
+0.0.0.0	montblanc.rambler.ru
+
+0.0.0.0	sticker.yadro.ru
+0.0.0.0	ad.adriver.ru
+0.0.0.0	ads.adfox.ru
+0.0.0.0	adfox.ru
+0.0.0.0	n.adonweb.ru
+0.0.0.0	hst.tradedoubler.com
+
+0.0.0.0	recreativ.ru
+0.0.0.0	clk.recreativ.ru
+0.0.0.0	st1.recreativ.ru
+0.0.0.0	st2.recreativ.ru
+0.0.0.0	st3.recreativ.ru
+0.0.0.0	st4.recreativ.ru
+
+0.0.0.0	allowac.com
+0.0.0.0	web.undere.com
+0.0.0.0	adforce.ru
+0.0.0.0	medianet.rin.ru
+0.0.0.0	web-rotation.net
+0.0.0.0	gameadnet.ru
+0.0.0.0	mixmarket.biz
+0.0.0.0	www.cityads.ru
+0.0.0.0	feed.topadvert.ru
+0.0.0.0	topadvert.ru
+0.0.0.0	ad05f.ru
+0.0.0.0	medianet.rin.ru
+0.0.0.0	post.rmbn.ru
+0.0.0.0	clicks.runews.radeant.com
+0.0.0.0	mcount.ru
+
+0.0.0.0	is.luxup.ru
+0.0.0.0	luxup.ru
+
+0.0.0.0	am10.ru
+0.0.0.0	good-teaser.info
+0.0.0.0	teaser-goods.ru
+0.0.0.0	c1.teaser-goods.ru
+0.0.0.0	i1.teaser-goods.ru
+0.0.0.0 adroll.com
+0.0.0.0 a.adroll.com
+0.0.0.0 dynads.adextent.com
+0.0.0.0 adextent.com
+
+0.0.0.0 advmarket.net
+0.0.0.0 am15.net
+
+0.0.0.0	www.directadvert.ru
+0.0.0.0 directadvert.ru
+0.0.0.0 code.directadvert.ru
+0.0.0.0 img.directadvert.ru
+
+0.0.0.0 c.morgdm.ru
+0.0.0.0 x.ulogix.ru
+0.0.0.0 utarget.ru
+0.0.0.0 i2.cnt.my
+0.0.0.0 d.tds.adlabs.ru
+0.0.0.0 dsp1.madnet.ru
+0.0.0.0 ad.dumedia.ru
+0.0.0.0 tex.trafex.net
+0.0.0.0 advice.imho.net
+0.0.0.0 clickunder.ritorno.ru
+0.0.0.0 sync2.adsniper.ru
+0.0.0.0 adsniper.ru
+0.0.0.0 autocontext.begun.ru
+0.0.0.0 st.top100.ru
+0.0.0.0 top100.ru
+
+# Marketgid
+0.0.0.0	marketgid.com
+0.0.0.0	marketgid.ru
+0.0.0.0	ah-gb.marketgid.com
+
+# News aggregators
+0.0.0.0	mediametrics.ru
+
+# smi2
+0.0.0.0 smi2.net
+0.0.0.0 smi2.ru
+0.0.0.0 target.smi2.net
+0.0.0.0 static.smi2.net
+0.0.0.0 static1.smi2.net
+0.0.0.0 static2.smi2.net
+0.0.0.0 static3.smi2.net
+0.0.0.0 static4.smi2.net
+0.0.0.0 static5.smi2.net
+0.0.0.0 static6.smi2.net
+0.0.0.0 static7.smi2.net
+0.0.0.0 static8.smi2.net
+0.0.0.0 static9.smi2.net
+#0.0.0.0 ___________
+#0.0.0.0 ___________
+
+# Counters
+0.0.0.0	counter.yadro.ru
+0.0.0.0	www.tns-counter.ru
+0.0.0.0	counter.rambler.ru
+0.0.0.0	counter.24log.ru
+0.0.0.0	mcount.ru
+
+
+# Questioned
+#0.0.0.0	iscwne.walla.co.il
+0.0.0.0	fus.walla.co.il
+0.0.0.0	gns.co.il
+
+
+# Photoshop
+0.0.0.0	activate.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 adobe.activate.com
+0.0.0.0 adobeereg.com 
+0.0.0.0 www.adobeereg.com 
+0.0.0.0 wwis-dubc1-vip60.adobe.com 
+0.0.0.0 hl2rcv.adobe.com
