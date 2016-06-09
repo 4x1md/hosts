@@ -26,6 +26,10 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 preview.msn.com
 
+# Cloudflare
+#0.0.0.0 www.cloudflare.com
+#0.0.0.0 cloudflare.com
+
 # 2015-11-03
 0.0.0.0 apps.skype.com
 0.0.0.0 api.skype.com
@@ -323,7 +327,6 @@
 0.0.0.0 banners.bizportal.co.il
 0.0.0.0 amazing-offers.co.il
 0.0.0.0 www.amazing-offers.co.il
-0.0.0.0 totalmedia.ynet.co.il
 0.0.0.0 track.clickon.co.il
 0.0.0.0 clickon.co.il
 0.0.0.0 ads.bhol.co.il
@@ -348,6 +351,7 @@
 #0.0.0.0 __________________.___
 
 # used by ynet.co.il
+0.0.0.0 totalmedia.ynet.co.il
 0.0.0.0 static.chartbeat.com
 0.0.0.0 podium.augmentad.net
 0.0.0.0 cdn.connatix.com
@@ -359,7 +363,18 @@
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 hilight.wee.co.il
 0.0.0.0 wee.co.il
+0.0.0.0 sites.saatchi-interactive.co.il
+0.0.0.0 saatchi-interactive.co.il
+0.0.0.0 ws-production.media.adextent.com
+0.0.0.0 media.adextent.com
 #0.0.0.0 __________________.___
+
+# advsnx.net
+0.0.0.0 lb.advsnx.net
+0.0.0.0 akamai.advsnx.net
+#0.0.0.0 __________________.___
+#0.0.0.0 __________________.___
+
 
 # flx.com
 0.0.0.0 c.flx1.com
