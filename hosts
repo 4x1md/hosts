@@ -366,7 +366,8 @@
 0.0.0.0 sites.saatchi-interactive.co.il
 0.0.0.0 saatchi-interactive.co.il
 0.0.0.0 ws-production.media.adextent.com
-0.0.0.0 media.adextent.com
+0.0.0.0 media.adextent.com\
+0.0.0.0 cdn.dynamicyield.com
 #0.0.0.0 __________________.___
 
 # advsnx.net
