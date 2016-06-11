@@ -305,6 +305,16 @@
 #0.0.0.0 
 #0.0.0.0 
 
+# Used by http://turbobit.net
+0.0.0.0 trackingclick.net
+0.0.0.0 www.trackingclick.net
+0.0.0.0 clck.clcktrck.pw
+0.0.0.0 revenuehits.adk2x.com
+0.0.0.0 adk2x.com
+0.0.0.0 nativead.tech
+0.0.0.0 cdn1.eclkspbn.com
+0.0.0.0 ads.pubmatic.com
+
 # Israeli sites
 0.0.0.0	total-media.net
 0.0.0.0	a.total-media.net
@@ -481,7 +491,10 @@
 
 # Marketgid
 0.0.0.0	marketgid.com
+0.0.0.0	www.marketgid.com
+0.0.0.0	imgg.marketgid.com
 0.0.0.0	marketgid.ru
+0.0.0.0	www.marketgid.ru
 0.0.0.0	ah-gb.marketgid.com
 
 # News aggregators
