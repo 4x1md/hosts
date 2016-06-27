@@ -8,6 +8,8 @@
 # Google
 0.0.0.0	pagead2.googlesyndication.com
 0.0.0.0	pagead.googlesyndication.com
+0.0.0.0	tpc.googlesyndication.com
+0.0.0.0	googlesyndication.com
 0.0.0.0	adservices.google.com
 #
 # Questioned
@@ -175,6 +177,7 @@
 0.0.0.0	partnerad.l.doubleclick.net
 0.0.0.0	stats.g.doubleclick.net
 0.0.0.0	pubads.g.doubleclick.net
+0.0.0.0	securepubads.g.doubleclick.net
 
 # ScoredSearch.com
 0.0.0.0	 scorecardresearch.com
@@ -347,6 +350,11 @@
 0.0.0.0 campaigns.gin.co.il
 0.0.0.0 secure.web-wise.co.il
 0.0.0.0 web-wise.co.il
+0.0.0.0 ymakeseb.club
+
+0.0.0.0 mccanncdn.pas-rahav.com
+0.0.0.0 pas-rahav.com
+#0.0.0.0 
 
 # dynamicyield.com
 0.0.0.0 dynamicyield.com
@@ -378,14 +386,23 @@
 0.0.0.0 ws-production.media.adextent.com
 0.0.0.0 media.adextent.com\
 0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 goodluckblockingthis.com
+
 #0.0.0.0 __________________.___
+
+# newyorkwhil.com
+0.0.0.0 l.newyorkwhil.com
+0.0.0.0 newyorkwhil.com
+
+# visualrevenue.com
+0.0.0.0 a.visualrevenue.com
+0.0.0.0 visualrevenue.com
 
 # advsnx.net
 0.0.0.0 lb.advsnx.net
 0.0.0.0 akamai.advsnx.net
 #0.0.0.0 __________________.___
 #0.0.0.0 __________________.___
-
 
 # flx.com
 0.0.0.0 c.flx1.com
@@ -398,8 +415,11 @@
 
 # cloudfront.net
 0.0.0.0 cloudfront.net
-#0.0.0.0 d1clufhfw8sswh.cloudfront.net
-#0.0.0.0 exposebox.com
+0.0.0.0 d1clufhfw8sswh.cloudfront.net
+
+# pagefair
+0.0.0.0 asset.pagefair.com
+0.0.0.0 asset.pagefair.net
 
 # Russian
 0.0.0.0	popunder.ru
