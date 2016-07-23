@@ -286,10 +286,17 @@
 0.0.0.0 mxpopad.com
 
 0.0.0.0 criteo.com
+0.0.0.0 eu.criteo.com
+0.0.0.0 cas.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtax.eu.criteo.com
+
 0.0.0.0 logc400.xiti.com
 0.0.0.0 xiti.com
+
+0.0.0.0 cache.betweendigital.com
+0.0.0.0 dispenser-rtb.sape.ru
+0.0.0.0 acint.net
 
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 ds.serving-sys.com
@@ -416,6 +423,10 @@
 # cloudfront.net
 0.0.0.0 cloudfront.net
 0.0.0.0 d1clufhfw8sswh.cloudfront.net
+
+# cloodfront.net
+0.0.0.0 m.cloodfront.net
+0.0.0.0 cloodfront.net
 
 # pagefair
 0.0.0.0 asset.pagefair.com
