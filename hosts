@@ -6,11 +6,14 @@
 0.0.0.0	ad.adserverplus.com
 
 # Google
-0.0.0.0	pagead2.googlesyndication.com
-0.0.0.0	pagead.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	googlesyndication.com
 0.0.0.0	adservices.google.com
+0.0.0.0 google-analytics.com
+
 #
 # Questioned
 0.0.0.0	safebrowsing-cache.google.com
@@ -21,8 +24,15 @@
 #0.0.0.0	sb-ssl.google.com
 #0.0.0.0	ajax.googleapis.com	# Remove for Brussels Airlines
 
+
 # YouTube
-0.0.0.0		yt3.ggpht.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s2.youtube.com
+0.0.0.0 s.youtube.com
+0.0.0.0 ehg-youtube.hitbox.com
 
 # Skype
 0.0.0.0 rad.msn.com
@@ -34,7 +44,7 @@
 
 # 2015-11-03
 0.0.0.0 apps.skype.com
-0.0.0.0 api.skype.com
+0.0.0.0 api.skype.com # !!!
 0.0.0.0 a.config.skype.com
 0.0.0.0 b.config.skype.com
 0.0.0.0 preapps.skype.net
@@ -64,23 +74,6 @@
 #0.0.0.0	www.search.googleanalytics.com
 #0.0.0.0	results.google-analytics.com
 #0.0.0.0	www.results.google-analytics.com
-
-# Keyword ads
-# [Vibrant Media]
-0.0.0.0 intellitxt.com
-0.0.0.0 images.intellitxt.com
-0.0.0.0 vibrantmedia.com
-0.0.0.0 itxt.vibrantmedia.com
-0.0.0.0 www.vibrantmedia.com
-0.0.0.0 incontext.pl
-0.0.0.0 www.infolinks.com
-0.0.0.0 router.infolinks.com
-0.0.0.0 resources.infolinks.com
-0.0.0.0 infolinks.com
-0.0.0.0 tblsearch.com
-#0.0.0.0 
-#0.0.0.0 
-#0.0.0.0 
 
 0.0.0.0	www.pagead2.google.com
 0.0.0.0	pagead2.google.com
@@ -165,19 +158,38 @@
 0.0.0.0	ec.atdmt.com
 0.0.0.0	adsyndication.msn.com
 
-# doubleclick.net
+# Google doubleclick.net
 0.0.0.0	doubleclick.net
 0.0.0.0	ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0	ad-emea.doubleclick.net
 0.0.0.0	ad.be.doubleclick.net
 0.0.0.0	ad-g.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	partnerad.l.doubleclick.net
 0.0.0.0	partnerad.l.doubleclick.net
 0.0.0.0	stats.g.doubleclick.net
 0.0.0.0	pubads.g.doubleclick.net
 0.0.0.0	securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+
+# Keyword ads
+# [Vibrant Media]
+0.0.0.0 intellitxt.com
+0.0.0.0 images.intellitxt.com
+0.0.0.0 vibrantmedia.com
+0.0.0.0 itxt.vibrantmedia.com
+0.0.0.0 www.vibrantmedia.com
+0.0.0.0 incontext.pl
+0.0.0.0 www.infolinks.com
+0.0.0.0 router.infolinks.com
+0.0.0.0 resources.infolinks.com
+0.0.0.0 infolinks.com
+0.0.0.0 tblsearch.com
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 
 
 # ScoredSearch.com
 0.0.0.0	 scorecardresearch.com
@@ -397,6 +409,15 @@
 
 #0.0.0.0 __________________.___
 
+# Used by mako.co.il
+0.0.0.0 stats.mako.co.il
+0.0.0.0 jquerymin.co.il
+0.0.0.0 websitepanel.co.il
+0.0.0.0 comeadvertisewithus.com.a.umamdmo.com
+0.0.0.0 a.umamdmo.com
+0.0.0.0 umamdmo.com
+0.0.0.0 comeadvertisewithus.com
+
 # newyorkwhil.com
 0.0.0.0 l.newyorkwhil.com
 0.0.0.0 newyorkwhil.com
@@ -432,12 +453,19 @@
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
 
-# Russian
-0.0.0.0	popunder.ru
-0.0.0.0	bs.yandex.ru
-0.0.0.0	an.yandex.ru
-0.0.0.0	mc.yandex.ru
+# Yandex
+0.0.0.0 mc.yandex.ru
+0.0.0.0 ms.yandex.ru
+0.0.0.0 an.yandex.ru
 0.0.0.0	yabs.yandex.ru
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 bs.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
+0.0.0.0 grade.market.yandex.ru
+0.0.0.0 yandexadexchange.net
+0.0.0.0	popunder.ru
+
+# Russian
 0.0.0.0	advanceadv.net
 0.0.0.0	www.r-money.ru
 0.0.0.0	advsense.info
@@ -530,8 +558,13 @@
 
 # News aggregators
 0.0.0.0	mediametrics.ru
+0.0.0.0	directadvert.net
+0.0.0.0	tt.ttarget.ru
+0.0.0.0	ttarget.ru
+0.0.0.0 e2.medianetworks.ru
+0.0.0.0 medianetworks.ru
 
-# smi2
+## smi2
 0.0.0.0 smi2.net
 0.0.0.0 smi2.ru
 0.0.0.0 target.smi2.net
