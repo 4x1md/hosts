@@ -319,11 +319,13 @@
 0.0.0.0 static.virgul.com
 
 0.0.0.0 cdn.dimml.io
-#0.0.0.0 
-#0.0.0.0 
 
 0.0.0.0 optimizely.com
 0.0.0.0 log.optimizely.com
+
+0.0.0.0 www6.smartadserver.com
+0.0.0.0 smartadserver.com
+
 #0.0.0.0 
 #0.0.0.0 
 
