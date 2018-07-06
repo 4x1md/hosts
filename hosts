@@ -229,6 +229,13 @@
 0.0.0.0 cdn.adrta.com
 0.0.0.0 q.adrta.com
 
+# taboola
+0.0.0.0	cdn.taboolasyndication.com
+0.0.0.0	trc.taboolasyndication.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 taboola.com
+
 # General
 0.0.0.0	a.ucoz.net
 0.0.0.0	a.ucoz.ru
@@ -236,8 +243,6 @@
 0.0.0.0	service.urchin.com #[Urchin Tracking Module]
 0.0.0.0	service.collarity.com
 0.0.0.0	beacon.securestudies.com
-0.0.0.0	cdn.taboolasyndication.com
-0.0.0.0	trc.taboolasyndication.com
 0.0.0.0	widgets.outbrain.com
 0.0.0.0	odb.outbrain.com
 0.0.0.0	traffic.outbrain.com
@@ -372,9 +377,13 @@
 0.0.0.0 secure.web-wise.co.il
 0.0.0.0 web-wise.co.il
 0.0.0.0 ymakeseb.club
-
 0.0.0.0 mccanncdn.pas-rahav.com
 0.0.0.0 pas-rahav.com
+0.0.0.0 imn.fast-direct.com
+0.0.0.0 fast-direct.com
+0.0.0.0 negishim.com
+0.0.0.0 negishim.co.il
+#0.0.0.0 
 #0.0.0.0 
 
 # dynamicyield.com
@@ -385,8 +394,6 @@
 
 # used by nrg.co.il
 0.0.0.0 cdn.firstimpression.io
-0.0.0.0 cdn.taboola.com
-0.0.0.0 taboola.com
 #0.0.0.0 __________________.___
 
 # used by ynet.co.il
