@@ -331,6 +331,14 @@
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 smartadserver.com
 
+0.0.0.0 trends.ravecontent.com
+0.0.0.0 img.ravecontent.com
+0.0.0.0 ravecontent.com
+0.0.0.0 revcontent-p0.s3.amazonaws.com
+
+0.0.0.0 s.spoutable.com
+0.0.0.0 spoutable.com
+
 #0.0.0.0 
 #0.0.0.0 
 
