@@ -589,6 +589,7 @@
 0.0.0.0	marketgid.ru
 0.0.0.0	www.marketgid.ru
 0.0.0.0	ah-gb.marketgid.com
+0.0.0.0 imgg-cdn.marketgid.com
 
 # News aggregators
 0.0.0.0	mediametrics.ru
@@ -597,6 +598,8 @@
 0.0.0.0	ttarget.ru
 0.0.0.0 e2.medianetworks.ru
 0.0.0.0 medianetworks.ru
+0.0.0.0 rb.infox.sg
+0.0.0.0 infox.sg
 
 ## smi2
 0.0.0.0 smi2.net
@@ -612,6 +615,12 @@
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 static9.smi2.net
+
+# 24SMI
+0.0.0.0 24smi.net
+0.0.0.0 img.24smi.net
+
+
 #0.0.0.0 ___________
 #0.0.0.0 ___________
 
