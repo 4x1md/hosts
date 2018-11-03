@@ -13,6 +13,8 @@
 0.0.0.0	googlesyndication.com
 0.0.0.0	adservices.google.com
 0.0.0.0 google-analytics.com
+0.0.0.0 cse.google.com
+0.0.0.0 googletagmanager.com
 
 #
 # Questioned
