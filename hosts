@@ -412,7 +412,6 @@
 0.0.0.0 negishim.com
 0.0.0.0 negishim.co.il
 #0.0.0.0 
-#0.0.0.0 
 
 # dynamicyield.com
 0.0.0.0 dynamicyield.com
@@ -421,15 +420,17 @@
 0.0.0.0 st.dynamicyield.com
 
 # used by nrg.co.il
-0.0.0.0 cdn.firstimpression.io
+0.0.0.0 trc.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 taboola.com
 #0.0.0.0 __________________.___
 
-# used by ynet.co.il
+## Used by ynet.co.il
 0.0.0.0 totalmedia.ynet.co.il
+0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 static.chartbeat.com
 0.0.0.0 podium.augmentad.net
 0.0.0.0 cdn.connatix.com
-0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 apicdn.zoomanalytics.co
 0.0.0.0 zoomanalytics.co
@@ -440,9 +441,22 @@
 0.0.0.0 sites.saatchi-interactive.co.il
 0.0.0.0 saatchi-interactive.co.il
 0.0.0.0 ws-production.media.adextent.com
-0.0.0.0 media.adextent.com\
+0.0.0.0 media.adextent.com
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 goodluckblockingthis.com
+
+0.0.0.0 cdn.firstimpression.io
+0.0.0.0 ecdn.firstimpression.io
+
+# 2018-11-24
+0.0.0.0 go-moblin.azurewebsites.net
+0.0.0.0 static.apester.com
+0.0.0.0 images.apester.com
+0.0.0.0 interaction.apester.com
+0.0.0.0 apester.com
+#0.0.0.0 
+#0.0.0.0 
+#0.0.0.0 ___
 
 #0.0.0.0 __________________.___
 
