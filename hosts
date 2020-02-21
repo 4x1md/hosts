@@ -409,9 +409,20 @@
 0.0.0.0 pas-rahav.com
 0.0.0.0 imn.fast-direct.com
 0.0.0.0 fast-direct.com
+#0.0.0.0 
+
+# Israeli accessibility features
 0.0.0.0 negishim.com
 0.0.0.0 negishim.co.il
-#0.0.0.0 
+0.0.0.0 js.nagich.co.il
+0.0.0.0 nagich.co.il
+#0.0.0.0
+
+# akamaihd.net
+0.0.0.0 middycdn-a.akamaihd.net
+0.0.0.0 akamaihd.net
+0.0.0.0 a.akamaihd.net
+#0.0.0.0
 
 # dynamicyield.com
 0.0.0.0 dynamicyield.com
