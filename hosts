@@ -5,6 +5,11 @@
 0.0.0.0	www3.oovoo.com
 0.0.0.0	ad.adserverplus.com
 
+# ===== Adblock blockers =====
+0.0.0.0 blockadblock.com
+0.0.0.0 m.yogyapost.com
+0.0.0.0 yogyapost.com
+
 # Google
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead1.googlesyndication.com
@@ -16,7 +21,6 @@
 0.0.0.0 cse.google.com
 0.0.0.0 googletagmanager.com
 
-#
 # Questioned
 0.0.0.0	safebrowsing-cache.google.com
 0.0.0.0	safebrowsing.clients.google.com
@@ -25,7 +29,6 @@
 #0.0.0.0	ssl.gstatic.com		#GoogleDocs doesn't function with this site blocked.
 #0.0.0.0	sb-ssl.google.com
 #0.0.0.0	ajax.googleapis.com	# Remove for Brussels Airlines
-
 
 # YouTube
 0.0.0.0 yt3.ggpht.com
@@ -43,6 +46,9 @@
 # Cloudflare
 #0.0.0.0 www.cloudflare.com
 #0.0.0.0 cloudflare.com
+
+# Twitter
+0.0.0.0 static.ads-twitter.com
 
 # 2015-11-03
 0.0.0.0 apps.skype.com
@@ -304,7 +310,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 mxpopad.com
 
-0.0.0.0 Criteo
+0.0.0.0 criteo.com
 0.0.0.0 eu.criteo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 rtax.criteo.com
@@ -535,6 +541,8 @@
 0.0.0.0	popunder.ru
 0.0.0.0	slidebanner.ru
 
+0.0.0.0 ads.echo.msk.ru
+
 0.0.0.0	corp.mail.ru
 0.0.0.0	rs.mail.ru
 #0.0.0.0	swa.mail.ru
@@ -573,6 +581,7 @@
 0.0.0.0	post.rmbn.ru
 0.0.0.0	clicks.runews.radeant.com
 0.0.0.0	mcount.ru
+0.0.0.0 top-fwz1.mail.ru
 
 0.0.0.0	is.luxup.ru
 0.0.0.0	luxup.ru
@@ -608,6 +617,8 @@
 0.0.0.0 sync2.adsniper.ru
 0.0.0.0 adsniper.ru
 0.0.0.0 autocontext.begun.ru
+
+# top100.ru
 0.0.0.0 st.top100.ru
 0.0.0.0 top100.ru
 
@@ -649,7 +660,6 @@
 0.0.0.0 24smi.net
 0.0.0.0 img.24smi.net
 
-
 #0.0.0.0 ___________
 #0.0.0.0 ___________
 
@@ -660,12 +670,10 @@
 0.0.0.0	counter.24log.ru
 0.0.0.0	mcount.ru
 
-
 # Questioned
 #0.0.0.0	iscwne.walla.co.il
 0.0.0.0	fus.walla.co.il
 0.0.0.0	gns.co.il
-
 
 # Photoshop
 0.0.0.0	activate.adobe.com
