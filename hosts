@@ -49,6 +49,7 @@
 
 # Twitter
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 analytics.twitter.com
 
 # 2015-11-03
 0.0.0.0 apps.skype.com
@@ -314,8 +315,8 @@
 0.0.0.0 eu.criteo.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 rtax.criteo.com
-0.0.0.0 static.criteo.net
 0.0.0.0 criteo.net
+0.0.0.0 static.criteo.net
 
 0.0.0.0 logc400.xiti.com
 0.0.0.0 xiti.com
@@ -545,8 +546,8 @@
 
 0.0.0.0	corp.mail.ru
 0.0.0.0	rs.mail.ru
-#0.0.0.0	swa.mail.ru
 0.0.0.0	ad.mail.ru
+0.0.0.0	top-fwz1.mail.ru
 
 0.0.0.0	scnt.rambler.ru
 0.0.0.0	ad.rambler.ru
@@ -566,6 +567,13 @@
 0.0.0.0	st3.recreativ.ru
 0.0.0.0	st4.recreativ.ru
 
+0.0.0.0 giraff.io
+0.0.0.0 a.giraff.io
+0.0.0.0 code.giraff.io
+
+0.0.0.0 c.echoban.ru
+0.0.0.0 doc.echoban.ru
+
 0.0.0.0	allowac.com
 0.0.0.0	web.undere.com
 0.0.0.0	adforce.ru
@@ -573,7 +581,7 @@
 0.0.0.0	web-rotation.net
 0.0.0.0	gameadnet.ru
 0.0.0.0	mixmarket.biz
-0.0.0.0	www.cityads.ru
+0.0.0.0	cityads.ru
 0.0.0.0	feed.topadvert.ru
 0.0.0.0	topadvert.ru
 0.0.0.0	ad05f.ru
