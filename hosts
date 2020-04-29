@@ -206,6 +206,11 @@
 0.0.0.0	 beacon.scorecardresearch.com
 0.0.0.0	 sb.scorecardresearch.com
 
+# Chartbeat
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 static.chartbeat.com
+0.0.0.0 chartbeat.com
+
 # Quantserve.com
 0.0.0.0 quantserve.com
 0.0.0.0 edge.quantserve.com
@@ -245,6 +250,13 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 taboola.com
 
+# Revcontent
+0.0.0.0 revcontent.com
+0.0.0.0 trends.revcontent.com
+0.0.0.0 img.revcontent.com
+0.0.0.0 cdn.revcontent.com
+0.0.0.0 assets.revcontent.com
+
 # General
 0.0.0.0	a.ucoz.net
 0.0.0.0	a.ucoz.ru
@@ -263,8 +275,6 @@
 0.0.0.0	gemius.pl
 
 0.0.0.0	imagesrv.adition.com
-0.0.0.0	ping.chartbeat.net
-0.0.0.0	b.scorecardresearch.com
 0.0.0.0	ad.yieldmanager.com
 0.0.0.0	ad.clickosmedia.com
 0.0.0.0	ads.clickosmedia.com
@@ -277,7 +287,6 @@
 0.0.0.0	ad.admitad.com
 0.0.0.0	adserver.adtech.de
 0.0.0.0	geoiplookup.wikimedia.org
-0.0.0.0	b.scorecardresearch.com
 0.0.0.0	stats.kaltura.com
 0.0.0.0	cdnx.tribalfusion.com
 0.0.0.0	a.tribalfusion.com
@@ -437,16 +446,9 @@
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 st.dynamicyield.com
 
-# used by nrg.co.il
-0.0.0.0 trc.taboola.com
-0.0.0.0 cdn.taboola.com
-0.0.0.0 taboola.com
-#0.0.0.0 __________________.___
-
 ## Used by ynet.co.il
 0.0.0.0 totalmedia.ynet.co.il
 0.0.0.0 totalmedia2.ynet.co.il
-0.0.0.0 static.chartbeat.com
 0.0.0.0 podium.augmentad.net
 0.0.0.0 cdn.connatix.com
 0.0.0.0 wcdn.zoomanalytics.co
