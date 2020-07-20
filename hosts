@@ -243,11 +243,12 @@
 0.0.0.0 cdn.adrta.com
 0.0.0.0 q.adrta.com
 
-# taboola
+# Taboola
 0.0.0.0	cdn.taboolasyndication.com
 0.0.0.0	trc.taboolasyndication.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 c2.taboola.com
 0.0.0.0 taboola.com
 
 # Revcontent
@@ -256,6 +257,11 @@
 0.0.0.0 img.revcontent.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 assets.revcontent.com
+
+# [newrelic.com]
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 newrelic.com
+#0.0.0.0 __________________.___
 
 # General
 0.0.0.0	a.ucoz.net
@@ -397,7 +403,6 @@
 0.0.0.0	tracking.merlin.co.il
 0.0.0.0	live.sekindo.com
 0.0.0.0	banners.hosting-il.com
-0.0.0.0	xban.walla.co.il
 0.0.0.0	banner.icon-interactive.co.il
 0.0.0.0	image.net-buy.co.il
 0.0.0.0	www.relevanti.com
@@ -474,13 +479,10 @@
 0.0.0.0 images.apester.com
 0.0.0.0 interaction.apester.com
 0.0.0.0 apester.com
-#0.0.0.0 
-#0.0.0.0 
 #0.0.0.0 ___
-
 #0.0.0.0 __________________.___
 
-# Used by mako.co.il
+# Used by [mako.co.il]
 0.0.0.0 stats.mako.co.il
 0.0.0.0 jquerymin.co.il
 0.0.0.0 websitepanel.co.il
@@ -488,6 +490,12 @@
 0.0.0.0 a.umamdmo.com
 0.0.0.0 umamdmo.com
 0.0.0.0 comeadvertisewithus.com
+
+# Used by [walla.co.il]
+0.0.0.0	xban.walla.co.il
+0.0.0.0 yad2campaign.mipo.co.il
+0.0.0.0 mipo.co.il
+#0.0.0.0 __________________.___
 
 # newyorkwhil.com
 0.0.0.0 l.newyorkwhil.com
