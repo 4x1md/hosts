@@ -29,6 +29,7 @@
 #0.0.0.0	ssl.gstatic.com		#GoogleDocs doesn't function with this site blocked.
 #0.0.0.0	sb-ssl.google.com
 #0.0.0.0	ajax.googleapis.com	# Remove for Brussels Airlines
+0.0.0.0	gns.co.il
 
 # YouTube
 0.0.0.0 yt3.ggpht.com
@@ -493,8 +494,11 @@
 
 # Used by [walla.co.il]
 0.0.0.0	xban.walla.co.il
+#0.0.0.0	iscwne.walla.co.il
+0.0.0.0	fus.walla.co.il
 0.0.0.0 yad2campaign.mipo.co.il
 0.0.0.0 mipo.co.il
+0.0.0.0 pikud-a0b24.firebaseio.com
 #0.0.0.0 __________________.___
 
 # newyorkwhil.com
